@@ -3,10 +3,10 @@ Developed a sophisticated service utilising computer vision techniques to accura
 
 #Requirements
 
-PyCharm or any other IDE 
-Python 3.7.10 
-pip install OpenCv 
-pip install mediapipe 
+PyCharm or any other IDE  
+Python 3.7.10  
+pip install OpenCv  
+pip install mediapipe  
 pip install osascript (pycaw for Windows users)
 
 Other libraries - numPy, math, time
