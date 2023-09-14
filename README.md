@@ -7,4 +7,5 @@ Python 3.7.10
 pip install OpenCv
 pip install mediapipe
 pip install osascript (pycaw for Windows users)
+
 Other libraries - numPy, math, time
